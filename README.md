@@ -1,4 +1,4 @@
-una mappa concettuale creata su Xmind per prepararmi ad un colloquio tecnico. 
+Una mappa concettuale creata su Xmind per prepararmi ad un colloquio tecnico. 
 Argomenti: 
 •Application Paradigms: OOP, Functional
 •Back End Technologies: Java SE, JAVA EE, Spring and related modules (Core, MVC, Restful, Boot, Cloud, Data JPA, Security)
